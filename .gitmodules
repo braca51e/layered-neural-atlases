@@ -1,6 +1,3 @@
 [submodule "thirdparty/RAFT"]
 	path = thirdparty/RAFT
 	url = https://github.com/princeton-vl/RAFT/
-[submodule "thirdparty/segment-anything"]
-	path = thirdparty/segment-anything
-	url = https://github.com/braca51e/segment-anything
